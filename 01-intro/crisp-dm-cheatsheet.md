@@ -110,7 +110,7 @@ This README provides a quick reference for the CRISP-DM (Cross-Industry Standard
 ---
 
 ## Quick Tips:
-- **Iterate**: CRISP-DM is iterative—don’t hesitate to loop back to a previous phase when you learn new things.
+- **Iterate**: CRISP-DM is iterative, don’t hesitate to loop back to a previous phase when you learn new things.
 - **Data Quality > Model Complexity**: Prioritize good quality, well-prepared data over complex models.
 - **Stakeholder Collaboration**: Keep in close contact with stakeholders throughout the process for feedback and alignment.
 
