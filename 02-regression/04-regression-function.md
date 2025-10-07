@@ -49,7 +49,7 @@ $$
 g(x)=w_1​x_1​+w_2​x_2​+⋯+w_n​x_n​+b
 $$
 
-## Bias Term ($w_0$ or $b$):
+## 4. Bias Term ($w_0$ or $b$):
 
 - Represents the baseline prediction when all features are 0.
 - It's like the starting value or absolute base price.
